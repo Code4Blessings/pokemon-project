@@ -5,6 +5,8 @@
   "homepage": "https://Code4Blessings.github.io/pokemon-project",
   "dependencies": {
     "gh-pages": "^2.0.1",
+    "lodash": "^4.17.15",
+    "lodash.template": "^4.5.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0"
